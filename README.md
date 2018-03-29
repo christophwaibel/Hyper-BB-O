@@ -3,4 +3,4 @@ Framework for selecting, tuning and constructing black-box optimization algorith
 
 First release soon...
 
-Meanwhile refer to the messy code in [version 0.1](https://github.com/christophwaibel/MetaheuristicsRepository)
+Meanwhile check the messy code in [version 0.1](https://github.com/christophwaibel/MetaheuristicsRepository)
